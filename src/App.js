@@ -30,7 +30,7 @@ function App() {
 
   return (
     <div className="container">
-      <h2>Food Recipes</h2>
+      <h2>CookBook</h2>
       <SearchBar
         isLoading={isLoading}
         query={query}
